@@ -1,0 +1,24 @@
+movies 3k_example_movies.txt
+actors 3k_example_actors.txt
+query
+Chasse-Galerie
+2016
+109
+2 Horror Thriller
+4 nm1588275 nm0223518 nm0660480 nm2066600
+4 Jos_Lebel Liza_Gilbert Jack_Murphy Romain_Boisjoli
+query
+?
+2018
+60
+0
+0
+0
+query
+?
+?
+?
+0
+4 nm0057983 nm0602812 nm0644404 nm0588502
+0
+quit
